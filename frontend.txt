@@ -6,3 +6,4 @@ También se programar en HTML y CSS.
 Yo manejo con destreza el diseño responsive, css grid, bootstrap, sass.
 
 Quiero aprender UX, React, Angular y mejorar mi perfil.
+Yo cambio mi futuro en frontend.

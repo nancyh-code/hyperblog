@@ -1,4 +1,8 @@
 Yo soy programadora frontend, y también soy Lic en Química
 
 He aprendido a programar en JavaScript.
-También se programar en HTML y CSS, manejo bootsatrap, Sass, diseño responsive, css grid.
+También se programar en HTML y CSS.
+
+Yo manejo con destreza el diseño responsive, css grid, bootstrap, sass.
+
+Quiero aprender UX, React, Angular y mejorar mi perfil.

@@ -1,3 +1,4 @@
-Yo soy programadora frontend, y tambi�n soy Lic en Qu�mica
+Yo soy programadora frontend, y también soy Lic en Química
 
-He aprendido a programar en JavaScript
+He aprendido a programar en JavaScript.
+También se programar en HTML y CSS, manejo bootsatrap, Sass, diseño responsive, css grid.

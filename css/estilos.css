@@ -40,14 +40,17 @@ body {
 }
 
 #container h2 {
-    font-size: 16;
+    font-size: 16px;
 }
 
-#post {
-    background: white;
+footer {
+    width: 70%;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, .5);
     padding: 1em;
-}
-
-#tipos {
-    padding: 1em;
+    margin: 0 auto;
+    font-size: 14px;
+    background: #333333;
+    padding: 0.5em;
+    text-align: center;
+    color: wheat;
 }

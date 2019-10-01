@@ -6,7 +6,7 @@ body {
     color: #333333;
     margin: 0;
     padding: 0;
-}
+    }
 #container {
     width: 70%;
     padding: 0;
@@ -48,11 +48,18 @@ body {
     font-size: 16px;
 }
 
+#dalek {
+    justify-content: center;
+}
+
+#tipos {
+    padding: 1em;
+}
+
 footer {
-    width: 70%;
-    margin: 0 auto;
+    margin: 0;
     font-size: 14px;
-    background: #777777;
+    background: #3333aa;
     color: white;
     padding: 0.5em;
     text-align: center;
